@@ -9,7 +9,7 @@ The knowledge of the 3000 most frequent English word families or the 5000 most f
 - [Oxford 3000 TXT](https://github.com/ittuann/The-Oxford-5000-Word-Lists/blob/main/The%20Oxford%203000.txt)
 - [Oxford 3000 PDF](https://github.com/ittuann/The-Oxford-5000-Word-Lists/blob/main/The_Oxford_3000_by_CEFR_level.pdf)
 
-- [Oxford 3000 (American English) TXT](https://github.com/ittuann/The-Oxford-5000-Word-Lists/blob/main/American_Oxford_3000.txt)
+- [Oxford 3000 (American English) TXT](https://github.com/ittuann/The-Oxford-5000-Word-Lists/blob/main/American%20Oxford%203000.txt)
 - [Oxford 3000 (American English) PDF](https://github.com/ittuann/The-Oxford-5000-Word-Lists/blob/main/American_Oxford_3000_by_CEFR_level.pdf)
 
 ## Oxford 5000 excluding Oxford 3000
