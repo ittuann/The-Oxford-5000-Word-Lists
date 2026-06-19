@@ -1537,7 +1537,6 @@ restraint
 restrict
 restriction
 resume
-r
 retail
 retirement
 retreat

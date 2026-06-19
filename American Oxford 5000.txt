@@ -3536,7 +3536,6 @@ quite
 quota
 quotation
 quote
-r
 race
 racial
 racing

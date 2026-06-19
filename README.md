@@ -1,6 +1,6 @@
 # The Oxford 5000 and 3000 English Word Lists
 
-This repository provides the latest downloadable versions of the Oxford 3000 and Oxford 5000 english vocabulary word lists, available in both TXT and PDF formats.
+This repository provides the latest downloadable versions of The Oxford 3000 and The Oxford 5000 english vocabulary word lists, available in both TXT and PDF formats.
 
 I also further processed the Sorted TXT version using the English word frequency dataset from the Google Web Trillion Word Corpus, whereas the official version is arranged alphabetically.
 

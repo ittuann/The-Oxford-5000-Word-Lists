@@ -3,7 +3,6 @@ just
 copyright
 well
 info
-r
 terms
 shipping
 forum
