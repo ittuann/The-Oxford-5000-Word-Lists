@@ -2,7 +2,7 @@
 
 This repository provides the latest downloadable versions of the Oxford 3000 and Oxford 5000 english vocabulary word lists, available in both TXT and PDF formats.
 
-I also processed the Sorted TXT version using an English word frequency dataset, while the official version is arranged alphabetically.
+I also further processed the Sorted TXT version using the English word frequency dataset from the Google Web Trillion Word Corpus, whereas the official version is arranged alphabetically.
 
 The knowledge of the 3000 most frequent English word families or the 5000 most frequent words provides 95% vocabulary coverage of spoken discourse. ([Source: Wikipedia](https://en.wikipedia.org/wiki/Vocabulary#Foreign-language_vocabulary))
 
@@ -41,7 +41,7 @@ The knowledge of the 3000 most frequent English word families or the 5000 most f
 
   Similarly, `driving n. A2` from the 3000 List PDF and `driving adj. C1` from the 5000 List PDF are combined into `driving` in the merged TXT version.
 
-- Dataset and code used for sorting the TXT files is available in the `scripts` folder.
+- Dataset and code used for sorting the TXT files is available in the [scripts](https://github.com/ittuann/The-Oxford-5000-Word-Lists/tree/main/scripts) folder.
   - https://www.kaggle.com/datasets/rtatman/english-word-frequency
 
 - Some older resources (no longer up to date):
