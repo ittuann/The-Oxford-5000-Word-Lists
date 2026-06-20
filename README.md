@@ -8,30 +8,37 @@ The knowledge of the 3000 most frequent English word families or the 5000 most f
 
 ## Oxford 3000
 
-- [Oxford 3000 TXT](https://github.com/ittuann/The-Oxford-5000-Word-Lists/blob/main/The%20Oxford%203000.txt)
 - [Oxford 3000 TXT (Sorted)](https://github.com/ittuann/The-Oxford-5000-Word-Lists/blob/main/The%20Oxford%203000%20Sorted.txt)
+- [Oxford 3000 TXT](https://github.com/ittuann/The-Oxford-5000-Word-Lists/blob/main/The%20Oxford%203000.txt)
 - [Oxford 3000 PDF](https://github.com/ittuann/The-Oxford-5000-Word-Lists/blob/main/The_Oxford_3000_by_CEFR_level.pdf)
 
-- [Oxford 3000 (American English) TXT](https://github.com/ittuann/The-Oxford-5000-Word-Lists/blob/main/American%20Oxford%203000.txt)
+---
+
 - [Oxford 3000 (American English) TXT (Sorted)](https://github.com/ittuann/The-Oxford-5000-Word-Lists/blob/main/American%20Oxford%203000%20Sorted.txt)
+- [Oxford 3000 (American English) TXT](https://github.com/ittuann/The-Oxford-5000-Word-Lists/blob/main/American%20Oxford%203000.txt)
 - [Oxford 3000 (American English) PDF](https://github.com/ittuann/The-Oxford-5000-Word-Lists/blob/main/American_Oxford_3000_by_CEFR_level.pdf)
 
 ## Oxford 5000 excluding Oxford 3000
 
-- [Oxford 5000 TXT](https://github.com/ittuann/The-Oxford-5000-Word-Lists/blob/main/The%20Oxford%205000%20excluding%20Oxford%203000.txt)
 - [Oxford 5000 TXT (Sorted)](https://github.com/ittuann/The-Oxford-5000-Word-Lists/blob/main/The%20Oxford%205000%20excluding%20Oxford%203000%20Sorted.txt)
+- [Oxford 5000 TXT](https://github.com/ittuann/The-Oxford-5000-Word-Lists/blob/main/The%20Oxford%205000%20excluding%20Oxford%203000.txt)
 - [Oxford 5000 PDF](https://github.com/ittuann/The-Oxford-5000-Word-Lists/blob/main/The_Oxford_5000_by_CEFR_level.pdf)
 
-- [Oxford 5000 (American English) TXT](https://github.com/ittuann/The-Oxford-5000-Word-Lists/blob/main/American%20Oxford%205000%20excluding%20Oxford%203000.txt)
+---
+
 - [Oxford 5000 (American English) TXT (Sorted)](https://github.com/ittuann/The-Oxford-5000-Word-Lists/blob/main/American%20Oxford%205000%20excluding%20Oxford%203000%20Sorted.txt)
+- [Oxford 5000 (American English) TXT](https://github.com/ittuann/The-Oxford-5000-Word-Lists/blob/main/American%20Oxford%205000%20excluding%20Oxford%203000.txt)
 - [Oxford 5000 (American English) PDF](https://github.com/ittuann/The-Oxford-5000-Word-Lists/blob/main/American_Oxford_5000_by_CEFR_level.pdf)
 
 ## Oxford 5000
 
-- [Oxford 5000 TXT](https://github.com/ittuann/The-Oxford-5000-Word-Lists/blob/main/The%20Oxford%205000.txt)
 - [Oxford 5000 TXT (Sorted)](https://github.com/ittuann/The-Oxford-5000-Word-Lists/blob/main/The%20Oxford%205000%20Sorted.txt)
-- [Oxford 5000 (American English) TXT](https://github.com/ittuann/The-Oxford-5000-Word-Lists/blob/main/American%20Oxford%205000.txt)
+- [Oxford 5000 TXT](https://github.com/ittuann/The-Oxford-5000-Word-Lists/blob/main/The%20Oxford%205000.txt)
+
+---
+
 - [Oxford 5000 (American English) TXT (Sorted)](https://github.com/ittuann/The-Oxford-5000-Word-Lists/blob/main/American%20Oxford%205000%20Sorted.txt)
+- [Oxford 5000 (American English) TXT](https://github.com/ittuann/The-Oxford-5000-Word-Lists/blob/main/American%20Oxford%205000.txt)
 
 ## Notes
 
@@ -41,7 +48,7 @@ The knowledge of the 3000 most frequent English word families or the 5000 most f
 
   Similarly, `driving n. A2` from the 3000 List PDF and `driving adj. C1` from the 5000 List PDF are combined into `driving` in the merged TXT version.
 
-- Dataset and code used for sorting the TXT files is available in the `scripts` folder.
+- Dataset and code used for sorting the TXT version is available in the `scripts` folder.
   - https://www.kaggle.com/datasets/rtatman/english-word-frequency
 
 - Some older resources (no longer up to date):
